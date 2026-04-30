@@ -65,4 +65,3 @@ ReportAgent：生成 Markdown 项目报告和 CSV 表格
 - Buck 驱动电路论文
 - CAN / UDS 诊断测试
 - 测试日志分析
-- AI Agent 项目申报材料
